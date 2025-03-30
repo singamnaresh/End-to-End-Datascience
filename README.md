@@ -69,3 +69,6 @@ For more detailed information about the specific project, the chosen dataset, th
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/5fd34f6a-91cd-4810-b914-712e4d02150b)
+![Image](https://github.com/user-attachments/assets/99b480a7-873e-490e-94ca-47ac20c1df1a)
+![Image](https://github.com/user-attachments/assets/d11f08d8-b88f-421e-ad60-5351afc48ca2)
